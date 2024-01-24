@@ -9,6 +9,7 @@ Libraries to analyze:
 - InterpretML: https://interpret.ml/docs/index.html
 - PiML: https://selfexplainml.github.io/PiML-Toolbox/_build/html/index.html
 - OmniXAI: https://github.com/salesforce/OmniXAI?tab=readme-ov-file
+- Alibi: https://docs.seldon.io/projects/alibi/en/stable/index.html
 
 Additional resources:
 - Sensitivity methods: https://github.com/SALib/SALib
